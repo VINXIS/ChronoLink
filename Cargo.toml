@@ -1,7 +1,7 @@
 [package]
-name = "eframe_template"
+name = "chrono_link"
 version = "0.1.0"
-authors = ["Emil Ernerfeldt <emil.ernerfeldt@gmail.com>"]
+authors = ["Omar Kamal <oykxf2@gmail.com>"]
 edition = "2021"
 rust-version = "1.71"
 
